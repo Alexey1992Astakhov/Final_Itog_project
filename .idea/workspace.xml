@@ -1,14 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d234301-719e-40dc-b27a-37a257fe6af4" name="Changes" comment="Added tasks from 1 to 13">
+    <list default="true" id="4d234301-719e-40dc-b27a-37a257fe6af4" name="Changes" comment="improvementsы">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/PetController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/UncorrectDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Creator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Hamster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/PetCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/PetType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Services/IRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Services/PetRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserInterface/ConsoleMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserInterface/ConsoleView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserInterface/View.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,6 +52,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/kLaSs/IdeaProjects/Final_Itog_project/sql_files"
   }
 }]]></component>
@@ -38,6 +65,20 @@
       <recent name="C:\Users\kLaSs\IdeaProjects\Final_Itog_project\sql_files" />
       <recent name="C:\Users\kLaSs\IdeaProjects\Final_Itog_project\screenshots" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program" />
+      <module name="Final_Itog_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,7 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685474902531</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="improvements">
+      <created>1685477039510</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685477039510</updated>
+    </task>
+    <task id="LOCAL-00003" summary="improvementsы">
+      <created>1685477203791</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685477203791</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,6 +126,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added tasks from 1 to 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added tasks from 1 to 13" />
+    <MESSAGE value="improvements" />
+    <MESSAGE value="improvementsы" />
+    <option name="LAST_COMMIT_MESSAGE" value="improvementsы" />
   </component>
 </project>
